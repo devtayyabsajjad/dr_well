@@ -3,6 +3,6 @@ openai
 streamlit-option-menu
 fpdf
 groq
-plotly
+plotly 
 pandas
 python-dotenv
